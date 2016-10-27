@@ -1,0 +1,27 @@
+# cache for current jar dependency. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1477552431078 238234 f2e3b9bc1ec25f652e8007ce7774c991e38f6a00 E:\Android\workspace\appcompat-v7\libs\support-compat-internal_impl-25.0.0.jar
+1477552431078 238234 f2e3b9bc1ec25f652e8007ce7774c991e38f6a00 E:\Android\workspace\RecyclerView\libs\support-compat-internal_impl-25.0.0.jar
+1477551883292 71544 665d21a8a069c96b4d9e8b434f5096d865b4e261 E:\Android\workspace\appcompat-v7\libs\support-media-compat-internal_impl-25.0.0.jar
+1477551883292 71544 665d21a8a069c96b4d9e8b434f5096d865b4e261 E:\Android\workspace\RecyclerView\libs\support-media-compat-internal_impl-25.0.0.jar
+1477561144777 22762 a22d2cc94da87b254451fa8ed28afc30b4653773 E:\Android\workspace\appcompat-v7\libs\support-annotations-25.0.0.jar
+1477561144777 22762 a22d2cc94da87b254451fa8ed28afc30b4653773 E:\Android\workspace\RecyclerView\libs\support-annotations-25.0.0.jar
+1477552222610 75169 4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0 E:\Android\workspace\RecyclerView\libs\support-core-utils-25.0.0.jar
+1477552222610 75169 4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0 E:\Android\workspace\appcompat-v7\libs\support-core-utils-25.0.0.jar
+1477552321857 254082 26674000177e45447a0326a6ad84612761199a13 E:\Android\workspace\RecyclerView\libs\support-core-ui-25.0.0.jar
+1477552321857 254082 26674000177e45447a0326a6ad84612761199a13 E:\Android\workspace\appcompat-v7\libs\support-core-ui-25.0.0.jar
+1477552321859 8989 e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f E:\Android\workspace\RecyclerView\libs\support-core-ui-internal_impl-25.0.0.jar
+1477552321859 8989 e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f E:\Android\workspace\appcompat-v7\libs\support-core-ui-internal_impl-25.0.0.jar
+1477552019366 15114 ee5faf4dee5b6a4364bf51587871047dde7c703a E:\Android\workspace\appcompat-v7\libs\support-fragment-internal_impl-25.0.0.jar
+1477552019366 15114 ee5faf4dee5b6a4364bf51587871047dde7c703a E:\Android\workspace\RecyclerView\libs\support-fragment-internal_impl-25.0.0.jar
+1477552222613 28277 3b61a70884adaf0be3fc06c70c801e3e6df13133 E:\Android\workspace\RecyclerView\libs\support-core-utils-internal_impl-25.0.0.jar
+1477552222613 28277 3b61a70884adaf0be3fc06c70c801e3e6df13133 E:\Android\workspace\appcompat-v7\libs\support-core-utils-internal_impl-25.0.0.jar
+1477551898253 215420 76fb65a4b41ea42dab8a1310ed772a2420c96b52 E:\Android\workspace\RecyclerView\libs\support-media-compat-25.0.0.jar
+1477551898253 215420 76fb65a4b41ea42dab8a1310ed772a2420c96b52 E:\Android\workspace\appcompat-v7\libs\support-media-compat-25.0.0.jar
+1477552431075 508392 75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a E:\Android\workspace\appcompat-v7\libs\support-compat-25.0.0.jar
+1477552431075 508392 75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a E:\Android\workspace\RecyclerView\libs\support-compat-25.0.0.jar
+1477552027169 132679 07daa0b6e1d455c82a38422ffe287c18823d339a E:\Android\workspace\appcompat-v7\libs\support-fragment-25.0.0.jar
+1477552027169 132679 07daa0b6e1d455c82a38422ffe287c18823d339a E:\Android\workspace\RecyclerView\libs\support-fragment-25.0.0.jar
+1477551785048 589 d7c42c80f6509b9ea4db28ca7859ffae08ec5741 E:\Android\workspace\appcompat-v7\libs\support-v4-25.0.0.jar
+1477551785048 589 d7c42c80f6509b9ea4db28ca7859ffae08ec5741 E:\Android\workspace\RecyclerView\libs\support-v4-25.0.0.jar
